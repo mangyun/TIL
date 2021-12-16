@@ -73,3 +73,36 @@ console.log(a, b, c, a===c) // {k: 2} {k: 2} {k: 2} true
 
 //이런 의도치않은 문제들은 웹사이트를 구현할때 생길 수 있다.
 //따라서 얕은 복사나 깊은 복사를 이용하자.
+
+
+
+
+
+
+//얕은복사와 깊은복사
+//1. 얕은 복사 - 겉표면 복사한다고 생각하면 된다.
+const user = {
+  name: 'mangyun',
+  age: 82,
+  email: 'con1890@naver.com'
+}
+
+const copyUser1 = Object.assign({}, user) // assign으로 복사할 수 있다.
+const copyUser2 = {...user} // 전개연산자로도 복사할 수 있다.
+console.log(copyUser1 === user) //false, 서로 다른 메모리주소를 가지기 때문에 다르다.
+console.log(copyUser2 === user) //false, 서로 다른 메모리주소를 가지기 때문에 다르다.
+
+user.emails.push('qk1890@naver.com')
+console.log(user.emails == copyUser1.emails) // 배열인 email도 참조형이라, 똑같이 복사가 되는것을 볼 수 있다.
+
+//2. 깊은 복사 - 내부까지 전부 복사한다고 생각하면 된다.
+import _ from 'lodash' //손쉬운 깊은복사를 위한 lodash
+
+const copyUser3 = _.cloneDeep(user) //반복실행으로 모든원소가 깊은복사된다.
+console.log(copyUser3 === user) //false, 서로 다른 메모리주소를 가지기 때문에 다르다.
+user.emails.push('qk1890@naver.com')
+console.log(user.emails == copyUser3.emails) //false
+//user는 qk1890도 있지만, copyUser3는 qk1890이 복사되지 않았다.
+
+//결론
+//객체나 배열처럼 참조형을 복사할 때, 내부에 속성으로 또 참조형 데이터가 존재한다면 깊은복사를 사용하는 것이 안전하다.
