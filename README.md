@@ -8,3 +8,4 @@
 
 ## [TS](https://github.com/mangyun/TIL/tree/main/TS)
 1. [TypeScript 타입 정리](https://github.com/mangyun/TIL/blob/main/TS/TS%20%EC%A0%95%EB%A6%AC%201.md) 
+2. [타입 시스템, 타입 호환성, 타입 별칭](https://github.com/mangyun/TIL/blob/main/TS/TS%20%EC%A0%95%EB%A6%AC%202.md)
