@@ -13,6 +13,7 @@
 3. [import(export), lodash, json, storage, OMDb API](https://github.com/mangyun/TIL/blob/main/JS/JS%20%EC%A0%95%EB%A6%AC%203.js)
 4. [정규표현식](https://github.com/mangyun/TIL/blob/main/JS/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%20%EC%A0%95%EB%A6%AC.md)
 5. [jQuery, 개발 팁](https://github.com/mangyun/TIL/blob/main/JS/jQuery.md)
+6. [슬라이드, 스크롤, 탭](https://github.com/mangyun/TIL/blob/main/JS/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C%2C%20%EC%8A%A4%ED%81%AC%EB%A1%A4%2C%20%ED%83%AD%20.md)
 
 ## [TS](https://github.com/mangyun/TIL/tree/main/TS)
 1. [TypeScript 타입 정리](https://github.com/mangyun/TIL/blob/main/TS/TS%20%EC%A0%95%EB%A6%AC%201.md) 
