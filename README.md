@@ -15,6 +15,7 @@
 5. [jQuery, 개발 팁](https://github.com/mangyun/TIL/blob/main/JS/jQuery.md)
 6. [슬라이드, 스크롤, 탭](https://github.com/mangyun/TIL/blob/main/JS/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C%2C%20%EC%8A%A4%ED%81%AC%EB%A1%A4%2C%20%ED%83%AD%20.md)
 7. [이벤트 버블링, dataset](https://github.com/mangyun/TIL/blob/main/JS/%EC%9D%B4%EB%B2%A4%ED%8A%B8%EB%B2%84%EB%B8%94%EB%A7%81%2C%20dataset.md)
+8. [HTML 동적생성, 웹 개발방식](https://github.com/mangyun/TIL/blob/main/JS/HTML%20%EB%8F%99%EC%A0%81%EC%83%9D%EC%84%B1%2C%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%EB%B0%A9%EC%8B%9D.md)
 
 ## [TS](https://github.com/mangyun/TIL/tree/main/TS)
 1. [TypeScript 타입 정리](https://github.com/mangyun/TIL/blob/main/TS/TS%20%EC%A0%95%EB%A6%AC%201.md) 
