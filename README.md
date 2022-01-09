@@ -20,6 +20,7 @@
 10. [Hammer.js, Writing 애니메이션](https://github.com/mangyun/TIL/blob/main/JS/Hammer.js%2C%20Writing%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98.md)
 11. [this, arrow function](https://github.com/mangyun/TIL/blob/main/JS/this%2C%20arrow%20function.md)
 12. [(보충) - 변수범위, tagged literal, spread operator](https://github.com/mangyun/TIL/blob/main/JS/%EB%B3%80%EC%88%98%EB%B2%94%EC%9C%84%2C%20tagged%20literal%2C%20spread%20operator.md)
+13. [default, rest 파라미터 / primitive, reference 타입](https://github.com/mangyun/TIL/blob/main/JS/default%2C%20rest%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%2C%20primitive%2C%20reference%20%ED%83%80%EC%9E%85.md)
 
 ## [TS](https://github.com/mangyun/TIL/tree/main/TS)
 1. [TypeScript 타입 정리](https://github.com/mangyun/TIL/blob/main/TS/TS%20%EC%A0%95%EB%A6%AC%201.md) 
