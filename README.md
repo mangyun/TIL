@@ -21,6 +21,7 @@
 11. [this, arrow function](https://github.com/mangyun/TIL/blob/main/JS/this%2C%20arrow%20function.md)
 12. [(보충) - 변수범위, tagged literal, spread operator](https://github.com/mangyun/TIL/blob/main/JS/%EB%B3%80%EC%88%98%EB%B2%94%EC%9C%84%2C%20tagged%20literal%2C%20spread%20operator.md)
 13. [default, rest 파라미터 / primitive, reference 타입](https://github.com/mangyun/TIL/blob/main/JS/default%2C%20rest%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%2C%20primitive%2C%20reference%20%ED%83%80%EC%9E%85.md)
+14. [상속1. constructor, prototype](https://github.com/mangyun/TIL/blob/main/JS/%EC%83%81%EC%86%8D1.%20constructor%2C%20prototype.md)
 
 ## [TS](https://github.com/mangyun/TIL/tree/main/TS)
 1. [TypeScript 타입 정리](https://github.com/mangyun/TIL/blob/main/TS/TS%20%EC%A0%95%EB%A6%AC%201.md) 
