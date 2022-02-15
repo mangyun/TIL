@@ -23,6 +23,7 @@
 13. [default, rest 파라미터 / primitive, reference 타입](https://github.com/mangyun/TIL/blob/main/JS/default%2C%20rest%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%2C%20primitive%2C%20reference%20%ED%83%80%EC%9E%85.md)
 14. [상속1. constructor, prototype](https://github.com/mangyun/TIL/blob/main/JS/%EC%83%81%EC%86%8D1.%20constructor%2C%20prototype.md)
 15. [상속2. class / getter, setter](https://github.com/mangyun/TIL/blob/main/JS/%EC%83%81%EC%86%8D2.%20class%2C%20getter%2C%20setter.md)
+16. [동기, 비동기 / 콜백함수, Promise](https://github.com/mangyun/TIL/blob/main/JS/%EB%8F%99%EA%B8%B0%2C%20%EB%B9%84%EB%8F%99%EA%B8%B0%2C%20%EC%BD%9C%EB%B0%B1%ED%95%A8%EC%88%98%2C%20Promise.md)
 
 ## [TS](https://github.com/mangyun/TIL/tree/main/TS)
 1. [TypeScript 타입 정리](https://github.com/mangyun/TIL/blob/main/TS/TS%20%EC%A0%95%EB%A6%AC%201.md) 
