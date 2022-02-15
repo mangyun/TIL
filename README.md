@@ -1,4 +1,4 @@
-# TIL(Today I Learned) - 일시적인 기억을 중요한 기록으로
+# TIL(Today I Learned) - 일시적인 기억을, 중요한 기록으로
 
 ## [HTML, CSS](https://github.com/mangyun/TIL/tree/main/HTML%2C%20CSS)
 1. [Bootstrap](https://github.com/mangyun/TIL/blob/main/HTML%2C%20CSS/Bootstrap.md)
